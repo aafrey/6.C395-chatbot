@@ -68,10 +68,39 @@ class Chatbot:
         """
         messages = [{"role": "system", "content": SYSTEM_PROMPT}]
         if history:
-            for user_msg, bot_msg in history:
-                messages.append({"role": "user", "content": user_msg})
-                messages.append({"role": "assistant", "content": bot_msg})
-        
+            # AAF 2026-03-13: Updated to handle various types of message formats, fixes bug that occurred when second message was sent (history had 1 item instead of 2)
+            first = None
+            try:
+                first = history[0]
+            except Exception:
+                first = None
+
+            if isinstance(first, dict) and 'role' in first and 'content' in first:
+                messages.extend(history)
+            else:
+                for item in history:
+                    # pair-like: (user_msg, assistant_msg) or [user_msg, assistant_msg]
+                    if isinstance(item, (list, tuple)):
+                        if len(item) >= 2:
+                            user_msg, bot_msg = item[0], item[1]
+                            messages.append({"role": "user", "content": user_msg})
+                            messages.append({"role": "assistant", "content": bot_msg})
+                        else:
+                            # unexpected short sequence; skip
+                            continue
+                    elif isinstance(item, dict):
+                        # dict with explicit keys
+                        if 'user' in item and 'assistant' in item:
+                            messages.append({"role": "user", "content": item['user']})
+                            messages.append({"role": "assistant", "content": item['assistant']})
+                        elif 'role' in item and 'content' in item:
+                            messages.append(item)
+                        else:
+                            # unknown dict shape; skip
+                            continue
+                    else:
+                        # unknown item type; skip
+                        continue
         messages.append({"role": "user", "content": user_input})
         return messages
 
