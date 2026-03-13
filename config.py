@@ -1,3 +1,8 @@
+"""
+Use this file to choose the inference model
+Remember tradeoff between larger model and lower query limit
+"""
+
 import os
 from dotenv import load_dotenv
 

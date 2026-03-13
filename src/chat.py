@@ -1,6 +1,34 @@
 from huggingface_hub import InferenceClient
 from config import BASE_MODEL, MY_MODEL, HF_TOKEN
 
+# example system prompt
+SYSTEM_PROMPT = """You are a helpful assistant that helps families in Boston find the right public school for their children. You have knowledge about Boston Public Schools, including:
+ - School locations and neighborhoods
+ - Grade leevels offered (K0, K1, K2, elementary, middle, high school)
+ - Lanuague programs (dual language, ESL, sheltered English)
+ - Special education services
+ - Application and enrollment processes
+ - Transportation and bus routes
+ - After-school programs
+
+When helping families:
+ - Ask clarifying questions about their neighborhood, child's age, and preferences
+ - Provide specific school recommendatiosn when possible
+ - Be honest when you are unsure about specific details and direct them to bostonpublicschools.org
+ - Be warm and supportive, choosing a school is a big decision for families
+ - If the user asks questions unrelated to Boston Public Schools, politely redirect
+
+Key facts:
+ - Boston uses a home-based assignment system where families get a list of schools based on their address
+ - Families can register at any Welcome Center or online
+ - Registration typically opens in January for the following school year
+ - The BPS website is bostonpublicschools.org
+Example questions:
+I live in Jamaica Plain and want to send my child to kindergarten. What schoools are available,
+What language programs are offered in Boston Public Schools?,
+How do I register my child for school?"""
+
+
 class Chatbot:
     """
     This class is extra scaffolding around a model. Modify this class to specify how the model recieves prompts and generates responses.
@@ -17,9 +45,10 @@ class Chatbot:
         model_id = MY_MODEL if MY_MODEL else BASE_MODEL # define MY_MODEL in config.py if you create a new model in the HuggingFace Hub
         self.client = InferenceClient(model=model_id, token=HF_TOKEN)
         
-    def format_prompt(self, user_input):
+    def format_prompt(self, user_input, history=None):
         """
         TODO: Implement this method to format the user's input into a proper prompt.
+        Keep track of changes as we go and write about them in the memo!
         
         This method should:
         1. Add any necessary system context or instructions
@@ -37,9 +66,17 @@ class Chatbot:
              User: {user_input}
              Assistant:"
         """
-        pass
+        messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+        if history:
+            for user_msg, bot_msg in history:
+                messages.append({"role": "user", "content": user_msg})
+                messages.append({"role": "assistant", "content": bot_msg})
         
-    def get_response(self, user_input):
+        messages.append({"role": "user", "content": user_input})
+        return messages
+
+
+    def get_response(self, user_input, history=None):
         """
         TODO: Implement this method to generate responses to user questions.
         
@@ -58,4 +95,15 @@ class Chatbot:
         - Use self.format_prompt() to format the user's input
         - Use self.client to generate responses
         """
-        pass
+        # step 1 - format messages
+        print("DEBUG: get_response received history:", repr(history))
+        print("DEBUG: user_msg:", history[0] if history else 0)
+        print("DEBUG: bot_msg:", history[1] if history else 1)
+        messages = self.format_prompt(user_input, history)
+
+        # step 2 - generate response
+        response = self.client.chat_completion(messages=messages)
+
+        # step 3 - 
+        return response.choices[0].message.content
+
