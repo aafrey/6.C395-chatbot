@@ -69,11 +69,26 @@ def create_chatbot():
     demo = gr.ChatInterface(
         chat,
         title="Boston Publice Schools Chatbot",
-        description="Ask me anything about Boston Public Schools! Since I am a free tier chatbot, I may give a 503 error when I'm busy. If that happens, please try again a few seconds later.",
+        description=
+        """
+        Ask me anything about Boston Public Schools! Since I am a free tier chatbot, 
+        I may give a 503 error when I'm busy. If that happens, please try again a few seconds later. 
+        Lets start by establishing which language you speak! I can understand and respond in multiple languages, 
+        so feel free to ask your question in the language you're most comfortable with.
+        """,
+
+        # TODONE: Multilingual support.
         examples=[
-            "I live in Jamaica Plain and want to send my child to kindergarten. What schoools are available?",
-            "What language programs are offered in Boston Public Schools?",
-            "How do I register my child for school?"
+            "English: I speak English",
+            "Spanish: Yo hablo español",
+            "Portuguese: Eu falo português",
+            "Chinese: 我会说中文 (Wǒ huì shuō zhōngwén)",
+            "Haitian Creole: Mwen pale kreyòl ayisyen",
+            "French: Je parle français",
+            "Vietnamese: Tôi nói tiếng Việt",
+            "Arabic: أنا أتكلم العربية (Ana atakallam al-ʿarabiyya)",
+            "Russian: Я говорю по-русски (Ya govoryu po-russki)",
+            "Somali: Waxaan ku hadlaa af Soomaali"
         ]
     )
     
