@@ -14,11 +14,13 @@ with open("src/summary.json", "r", encoding="utf-8") as f:
 with open("src/bps_chatbot_conversation_example.txt", "r", encoding="utf-8") as f:
     EXAMPLE_CONVERSATION = f.read()
 
-# 
+# Load in the background information in the BPS_background.txt file as a string to use as an example prompt in the UI.
+with open("src/BPS_background.txt", "r", encoding="utf-8") as f:
+    BPS_BACKGROUND = f.read()
 
 # improved system prompt, which directs to bps_data, rather than including data directly here
 # High-level behavior instructions sent as the first system message.
-SYSTEM_PROMPT = """
+SYSTEM_PROMPT = f"""
 You are a Boston Public Schools enrollment helper.
 
 Your job is to help families understand school options and enrollment steps using only the source information provided to you.
@@ -32,6 +34,7 @@ Rules:
   1. what is known from the source,
   2. what is still missing,
   3. what the family should verify with BPS.
+  4. urls or contact info for next steps if available in the source information.
 - Be warm, concise, and helpful.
 - If the question is unrelated to Boston Public Schools, politely redirect.
 
@@ -48,9 +51,9 @@ if the source information does not contain the answer, use what you know from tr
 
 {EXAMPLE_CONVERSATION}
 
-Also here is a summary of the BPS schools to help you answer questions:
+Finally, here is some background information about Boston Public Schools that may be helpful for you to reference when answering questions:
 
-{SUMMARY_DATA}
+{BPS_BACKGROUND}
 
 """
 
@@ -297,7 +300,8 @@ class Chatbot:
             {
                 "role": "system",
                 "content": (
-                    "Use only the following source information when answering.\n\n"
+                    #"Use only the following source information when answering.\n\n"
+                    "Use this source information for reference when answering the user's question.\n\n"
                     f"{source_context}"
                 ),
             },
@@ -335,6 +339,7 @@ class Chatbot:
         # Add the latest user question as the final message in the sequence.
         messages.append({"role": "user", "content": user_input})
         # Return fully assembled message list for generation.
+        print(messages)
         return messages
 
     # Generate a model response from user input and optional history.
@@ -366,7 +371,7 @@ class Chatbot:
             # Request a completion from the selected Hugging Face chat model.
             response = self.client.chat_completion(
                 messages=messages,
-                max_tokens=1000,
+                max_tokens=5000,
                 temperature=0.4,  # lower temperature for more factual responses
             )
             # Return assistant text from first choice.
