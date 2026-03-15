@@ -50,11 +50,6 @@ and provides clear next steps for the family to verify with BPS. In the example 
 if the source information does not contain the answer, use what you know from training. If you don't know the answer, say you don't know and suggest next steps for the user to find out.
 
 {EXAMPLE_CONVERSATION}
-
-Finally, here is some background information about Boston Public Schools that may be helpful for you to reference when answering questions:
-
-{BPS_BACKGROUND}
-
 """
 
 # Chatbot wrapper class that handles retrieval, prompt formatting, and response calls.
