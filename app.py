@@ -88,7 +88,10 @@ def create_chatbot():
             "Vietnamese: Tôi nói tiếng Việt",
             "Arabic: أنا أتكلم العربية (Ana atakallam al-ʿarabiyya)",
             "Russian: Я говорю по-русски (Ya govoryu po-russki)",
-            "Somali: Waxaan ku hadlaa af Soomaali"
+            "Somali: Waxaan ku hadlaa af Soomaali",
+            "Kabuverdianu: N ta papia kabuverdianu",
+            "Hindi: मैं हिंदी बोलता हूँ (Main Hindi bolta hoon)",
+            "Korean: 저는 한국어를 말합니다 (Jeoneun hangugeo-reul malhabnida)",
         ]
     )
     
