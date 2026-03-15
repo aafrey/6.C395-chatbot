@@ -1,0 +1,410 @@
+The BPS pages are primarily navigation — the content is in JavaScript-rendered sections. Let me pull from more targeted sources that surface the actual policy content.I now have comprehensive, current data from official BPS sources, recent news coverage, and policy documents. Here is the dense parent-facing summary:
+
+---
+
+## Boston Public Schools: Complete Parent Guide to Enrollment, Policies & Processes
+
+*Based on official BPS sources, DESE data, and current reporting as of March 2026.*
+
+---
+
+### District at a Glance
+
+BPS is the largest school district in Massachusetts, serving approximately **46,000 students in grades PK–12** across roughly **109 schools**. Founded in 1647, it is the oldest public school system in the United States. Superintendent **Mary Skipper** has led the district since September 2022. The district is governed by a seven-member **Boston School Committee** appointed by the mayor. The district's 2025 four-year cohort graduation rate reached **81.3%**, the highest in district history, while the annual dropout rate fell to **3.6%**, also a record low.
+
+---
+
+### 1. Residency Requirement
+
+You must be a **Boston city resident** to enroll in BPS. You cannot apply to BPS if you live outside Boston. Residency is verified at registration and two independent proofs of Boston address are required. If you move during the school year, you must update your address at a BPS Welcome Center, as transportation routing, school assignment eligibility, and some program priorities are tied to your recorded home address.
+
+---
+
+### 2. The Home-Based Assignment System
+
+BPS does **not** operate on a neighborhood-school model. Your home address determines your *eligible list* of schools — not which school you automatically attend. Understanding this is the single most important thing for new families to grasp.
+
+**How it works:** BPS uses a computerized algorithm that generates a personalized list of schools for each family based on home address. You will receive a list of all the elementary schools within a one-mile radius of your home. Most lists include 10–14 options. If there aren't enough schools within that radius, it expands until there are. The list also includes a few "option" schools that are more citywide.
+
+BPS uses a home-based assignment plan to determine the schools available to your family. If a school does not appear on your list, you are not eligible to apply to that school.
+
+**The lottery:** When you register, you'll be asked to choose at least five schools off your list and rank them in order of preference. Your child will then be assigned a school by a computerized lottery, which takes your preferences into account plus certain other factors such as sibling priority. The computer gives each application a random number. If your child isn't assigned to your first-choice school, they will be assigned to the next highest school on your list as determined by the lottery.
+
+**Priority factors** that improve your chances at a given school include: (1) **walk-zone proximity** — living within a defined distance of the school; (2) **sibling priority** — having an older sibling currently enrolled at that school; and (3) the random lottery number assigned to your application. None of these factors guarantee placement.
+
+**High school is different:** All BPS high schools are citywide, meaning any Boston resident may apply regardless of home address. The home-based list restriction applies only to elementary and middle school grades. All high school applications use the same citywide pool.
+
+**The East Boston exception:** Because East Boston is geographically separated from the rest of the city by the harbor and airport, East Boston families are **guaranteed a seat somewhere in East Boston** for K2 and above, even if not at their preferred school.
+
+**A critical note for home buyers:** A lot of buyers move to Boston thinking the same rules apply as everywhere else — find a good school district, buy a home nearby, and you're set. But that strategy doesn't work in Boston because there is no district. The strategy isn't where you buy. It's understanding how to work the system and having a backup plan. Buying a home near a specific BPS school does not guarantee your child will attend that school. Many families rent for a year, complete the assignment process, and then buy once they know their child's placement.
+
+---
+
+### 3. Registration: Timing, Process & Documents
+
+**Where to register:** Online at **sis.mybps.org** (pre-registration) or **apply.avela.org/boston** for the full application, or in person at a **BPS Welcome Center**. Welcome Centers are located in multiple neighborhoods across the city and staff speak multiple languages.
+
+**2025–2026 Registration Windows:**
+
+Round 1 (Priority): For students entering K0, K1, K2, Grade 6, Grade 7, and Grade 9 — January 6 through February 7, 2025. Assignment notifications sent by March 31, 2025 (Grade 7 by May 30). Round 2: For all other grades — February 10 through April 4, 2025. Assignment notifications by May 30, 2025.
+
+For the **2026–2027 school year**, similar windows apply beginning in early January 2026. Check bostonpublicschools.org/register for current dates, as they shift slightly each cycle.
+
+**Required documents at registration:**
+- Child's **original birth certificate**, I-94 form, or passport (passport requires a BPS Parent Affidavit)
+- **Two independent proofs of Boston residency** (utility bills, lease agreement, bank statements, government correspondence, etc.)
+- Up-to-date immunization records
+- Prior school records if transferring mid-year
+
+**School Information Sessions:** BPS holds in-person and virtual information sessions in the fall and winter (October–January) where individual schools present their programs and culture. Attendance is strongly recommended before ranking schools. Recordings of virtual sessions are typically made available on the BPS website.
+
+---
+
+### 4. Age Cutoffs and Grade Levels
+
+All age cutoffs use **September 1** of the school year as the determining date:
+
+- **K0** (pre-K, age 3): Child must be 3 years old by September 1
+- **K1** (pre-K, age 4): Child must be 4 years old by September 1
+- **K2** (kindergarten, age 5): Child must be 5 years old by September 1
+- **Grade 1**: Child must be 6 years old by September 1
+- And so on up through the grades
+
+**K2 is full-day** (six hours) and is provided at all BPS elementary schools and early learning centers.
+
+**K2 placement is guaranteed** for every child who applies — meaning BPS guarantees your child will have a BPS kindergarten seat, though not necessarily at the specific school of your choice.
+
+**K0 and K1 (pre-K) are NOT guaranteed.** K0 classrooms are much more limited, and most K0 seats are reserved for students with disabilities. K1 has more seats but is still competitive and not guaranteed. Families seeking pre-K programming should also explore the **Great Starts** platform (bostonpublicschools.org/greatstarts) for a complete picture of BPS and community-based early childhood options.
+
+---
+
+### 5. School Types: What They Mean and How They Differ
+
+Understanding BPS's school types is essential to making smart enrollment choices. Not all BPS schools are the same, and not all require the same application process.
+
+**Traditional District Schools** — The default. Assigned through the home-based lottery. No separate application. The vast majority of BPS schools fall into this category.
+
+**Exam Schools** — Boston Latin School, Boston Latin Academy, and John D. O'Bryant School of Mathematics and Science. Require a **separate competitive admissions process** (see Section 6). Citywide — any Boston student may apply.
+
+**Pilot Schools** — Semi-autonomous BPS schools with authority over their budget, staffing, curriculum, and calendar. Created in 1994 as a BPS-BTU partnership. There are approximately 19 pilot schools. They participate in the standard enrollment process but with a lottery component. Examples include Fenway High School, Orchard Gardens K–8, and BTU K–8. Pilot schools may have distinctive programs (arts integration, early college, teacher-led governance) that make them worth prioritizing.
+
+**Horace Mann Charter Schools** — BPS-funded in-district charter schools approved by both the Boston School Committee and DESE. They operate with charter-like autonomy but are tuition-free, funded by BPS, and accessible through BPS enrollment. They often hold their own lotteries when oversubscribed. Examples include UP Academy (Boston and Dorchester), Boston Green Academy, Dudley Street Neighborhood Charter, and Boston Community Leadership Academy.
+
+**Dual Language Schools** — Schools where academic content is taught in two languages (typically English and Spanish). The flagship is Margarita Muñiz Academy (grades 7–12). BPS announced the largest expansion of multilingual education in the district in a single year in December 2024, creating new dual-language programs in Spanish/English, transitional bilingual education in Spanish, newcomer programs, and an innovative Mandarin/English bilingual program at five elementary and two secondary schools, launching in 2025–2026. The standard entry points for dual language programs are K1–Grade 2 and grades 9–11; students entering grades 3–8 must be assessed in the partner language.
+
+**Special Admission Schools** — Certain schools (including Boston Arts Academy with its audition requirement, and Madison Park's Chapter 74 vocational programs) require **separate applications with their own deadlines** in addition to the standard BPS enrollment process. A list of special admission schools and their deadlines is published annually at bostonpublicschools.org/register.
+
+**Specialized / Alternative Schools** — Schools serving specific populations: Boston International High School and Newcomers Academy (English Learners and recent immigrants); Boston Evening Academy (over-age students needing evening schedule); Boston Adult Technical Academy (ages 19–22); Carter Center and Horace Mann School for the Deaf and Hard of Hearing (specialized disability placements).
+
+---
+
+### 6. Exam School Admissions (Revised Policy, Effective 2026–2027)
+
+BPS's three exam schools — **Boston Latin School** (founded 1635), **Boston Latin Academy**, and **John D. O'Bryant School** — are among the most competitive public schools in the country. The admissions policy was formally revised by the School Committee in fall 2025, effective immediately for the 2026–2027 admissions cycle.
+
+**Eligibility:**
+- Must be a **Boston resident**
+- All three schools accept new students for grades 7 and 9. John D. O'Bryant School accepts a small number of new students in grade 10.
+- Must have a **minimum B (80%) GPA**
+- Must have a valid **MAP Growth test score**
+
+**The new scoring formula (effective 2026–2027):**
+Students receive a composite score based 30% on MAP Growth and 70% GPA. Students experiencing homelessness, living in public housing owned by the Boston Housing Authority, or in the care of the Department of Children and Families receive an additional 10 points on their composite score.
+
+**How seats are distributed:**
+20% of invitations at each school are distributed to the highest-ranking students citywide. 80% of invitations are distributed to the highest-ranking students in each of the 4 socioeconomic tiers.
+
+**The tier system:** Boston is divided into 4 socioeconomic tiers based on US Census tract data. Students are assigned to one of the tiers based on their home address and compete for exam school invitations only with other students in their tier. Tiers are recalculated periodically using American Community Survey data measuring poverty rates, homeownership, single-parent households, language spoken at home, and educational attainment.
+
+**Historical context:** Before 2020, admissions were based purely on test scores and GPA, producing significant demographic disparities. In 2020, Black students made up just 7.6% of the Boston Latin School student body; by 2025, that rose to 15.3%. Latino students went from 13.3% to 16.5%. Low-income students went from 16.3% to 31.3% of Boston Latin School's student body. The 2025 policy revision reduces tiers from 8 to 4 and adds a 20% citywide merit round, a change that is expected to shift the demographic composition modestly.
+
+**For the MAP Growth test:** Current BPS students take the MAP test during the school day in the fall. Non-BPS students (e.g., private school, homeschool) and current exam school students applying to transfer must take a **weekend MAP test** administered by BPS. Non-BPS students must proactively register for this test — it does not happen automatically.
+
+**Application timeline:** The exam school application process runs alongside the standard BPS enrollment window (fall/winter). Families should begin preparing in early fall of the year before intended enrollment. Information sessions are offered in multiple languages.
+
+---
+
+### 7. Special Education: IEP Process and Rights
+
+Approximately **20–25% of BPS students** have an Individualized Education Program (IEP). BPS is under a state-mandated improvement plan for special education (agreed to in 2022) and is in the process of a major overhaul of its practices.
+
+**Child Find:** BPS conducts Child Find for students ages 3 through 21 who live in or attend school in Boston, including students in private schools and home-school settings. If you suspect your child has a disability, you can request a special education evaluation at any time by contacting your school's special education coordinator or the district's Office of Specialized Services. BPS is legally required to complete the evaluation within 60 days of consent.
+
+**The IEP:** Massachusetts began transitioning to a new standardized IEP format in fall 2024, with full implementation expected over the course of the school year. The new IEP emphasizes collaborative planning, family involvement, accessible language, and stronger transition planning. Families are full members of the IEP team and have the right to participate in all meetings, request revisions, and file complaints if they disagree with the district's decisions.
+
+**Placement and Inclusion:** BPS plans to educate students with disabilities in general education classrooms whenever possible in all grades and schools. The district found that 29% of students with disabilities were in substantially separate classrooms — more than twice the state and national average — with students of color and English learners segregated at particularly high rates. Under the state-mandated plan, BPS is rolling out inclusive placements grade by grade toward full implementation by 2026–2027.
+
+**Extended School Year (ESY):** Students whose IEPs determine they need summer services receive ESY programming, typically running from early July through early August. Transportation is provided consistent with IEP requirements.
+
+**Parent advocacy resource:** The **Boston SpEdPAC** (Boston Special Education Parent Advisory Council) is an independent parent body that holds regular information sessions on navigating IEPs, transportation, and legal rights, available in 11+ languages. Website: bostonspedpac.org.
+
+---
+
+### 8. English Learners and Multilingual Services
+
+Approximately **one-third of BPS students are English Learners (ELs)**. The district's Office of Multilingual and Multicultural Education (OMME) oversees all language services.
+
+**Newly arrived students** are assessed for English language proficiency upon enrollment. Based on assessment results, students are placed in one of several program models:
+
+- **Sheltered English Immersion (SEI):** All-English instruction with specific supports for ELs. The default model for most EL students. BPS also has language-specific SEI programs in **Chinese, Cape Verdean Creole, and Haitian Creole** at designated schools (see the SEI language-specific program page).
+- **Dual Language / Two-Way Immersion:** Students are taught in both English and a partner language (Spanish or Mandarin). Open to both EL and non-EL students.
+- **Transitional Bilingual Education (TBE):** Instruction primarily in the home language, transitioning to English as proficiency grows.
+- **Newcomer Programs:** Intensive initial English support for recently arrived students; designed to bridge to mainstream English instruction.
+
+**Recent expansion:** In December 2024, BPS announced the largest expansion of multilingual education in the district in a single year, including new dual-language Spanish programs, a transitional bilingual education program in Spanish, newcomer programs, and a Mandarin/English bilingual program, launching in 2025–2026 across seven schools.
+
+**Newcomers at the high school level** are served by **Boston International High School** and the co-located **Newcomers Academy** in Dorchester, both specifically designed for students not yet proficient in English. Enrollment for newcomer students should be initiated at a **BPS Welcome Center**, where staff assess language proficiency and determine appropriate placement.
+
+---
+
+### 9. Transportation
+
+Transportation policy is one of the most practically important policies for BPS families.
+
+**Elementary school students (grades K–5):**
+Elementary students through grade 5 are eligible for BPS yellow bus transportation if they live more than 1 mile from their school. Students in grade 6 are eligible if they live more than 1.5 miles from their school. Yellow bus stops are located within a half-mile of the student's home address. Yellow bus service is provided by BPS's contracted provider; the **Zum app** is used for bus tracking and notifications.
+
+**Middle and high school students (grades 7–12):**
+Transportation service for all students in grades 7–12 is by MBTA trains and buses. BPS provides monthly seven-day MBTA passes (M7 passes) for all students in these grades. M7 passes are valid for unlimited travel on the subway, local or express buses, and Commuter Rail Zones 1A, 1, and 2. Passes are active 24/7 throughout the school year and summer through the end of August.
+
+**Grade 6 option:** If a sixth-grade child is assigned a yellow bus, families may opt them into an M7 T-pass instead. K–5 students cannot receive an M7. If approved, families cannot revert back to yellow bus service within the same school year.
+
+**Special education transportation:** Students with disabilities receive transportation services as specified in their IEP or 504 plan. Some students receive **door-to-door service**; others receive corner stops, MBTA passes, or walking arrangements. Some students may have medical or physical conditions that prevent them from walking to the bus stop. In these rare cases, BPS may provide door-to-door medical transportation, but the child's doctor must complete an Individualized Collaborative Health Plan.
+
+**Important note on Boston's transportation costs:** Boston school transportation spending is the highest in the nation at $189 million this year, even though there are 9,000 fewer children riding buses than 10 years ago. The system's complexity is a product of the school choice model; as a practical matter, families should factor commute time into school selection decisions, as schools assigned through the lottery may be far from home.
+
+---
+
+### 10. Food Services
+
+All BPS students receive **free breakfast and lunch** regardless of income — BPS participates in the federal Community Eligibility Provision (CEP), which provides universal free meals. BPS Food and Nutrition Services offers halal and kosher meal options; families with dietary or medical needs can submit a **Food Service Accommodation Form**. Menus are available at bostonpublicschools.org/menus.
+
+---
+
+### 11. Health Services
+
+Every BPS school has a **school nurse**. School-based health services include routine health screenings, immunization compliance verification, medication administration (with proper documentation), and management of chronic health conditions. BPS maintains **School-Based Health Centers** at a subset of schools offering more comprehensive clinical care through community health center partnerships.
+
+**Immunization requirements** must be current for enrollment. The school nurse can advise on required immunizations by grade level. Students with significant medical needs should connect with the school nurse before the school year starts to establish care plans.
+
+---
+
+### 12. After-School and Extended Learning
+
+BPS does not operate a universal after-school program, but many schools have partnerships with community organizations providing after-school care and enrichment. Availability, hours, and cost vary significantly by school — families must inquire directly with each school. The **5th Quarter summer programming** is available for some students; Extended School Year (ESY) is available for students whose IEPs mandate it.
+
+---
+
+### 13. Transferring, Changing Schools & Waitlists
+
+**Mid-year transfers** are possible but must be approved by BPS enrollment. A student can be reassigned if a seat opens at a more preferred school. Students placed on **waitlists** move up as seats open; waitlists are not always exhausted, and positions are not publicly shared in real time.
+
+**Change of address:** If you move within Boston, your eligible school list changes. You must update your address at a Welcome Center, and a new assignment may be issued. If you move to a different city, you must disenroll from BPS.
+
+**Annual re-enrollment** is not required if your child stays in the same school. However, if your child is in a grade that requires a new school (e.g., completing grade 5 at an elementary school, or grade 6 or 8 at a middle school), you must go through the enrollment process again for the next school level.
+
+---
+
+### 14. BPS's Active Structural Changes: Schools to Verify Before Applying
+
+BPS is in the midst of significant portfolio restructuring. The following schools have active closure or merger proceedings as of early 2026 — **families must verify current operating status directly with BPS before applying to or relying on any of these schools:**
+
+- **Closures announced:** Dever Elementary, Excel High School, Community Academy of Science and Health (CASH), Another Course to College, Mary Lyon Pilot High School, Lee Academy Pilot School, Community Academy
+- **Mergers:** Clap Elementary + Winthrop Elementary → **Lilla G. Frederick Elementary School**; Philbrick Elementary + Sumner Elementary → **Sarah Roberts Elementary School**
+- **Reconfigurations:** Henderson Inclusion School (grade span changed)
+- **Status uncertain from prior closures:** Edwards Middle (Charlestown), Timilty Middle (Roxbury), Jackson/Mann K–8 (Allston), Mission Hill K–8 (Jamaica Plain), McCormack Middle (Dorchester) — all appear in BPS administrative records but were publicly reported as closed or merged. Contact BPS enrollment for current status.
+
+---
+
+### 15. Key Contacts and Resources
+
+- **BPS Main Line:** 617-635-9000
+- **BPS Welcome Centers:** Multiple locations; find hours and addresses at bostonpublicschools.org/welcomecenters
+- **Pre-registration / Applications:** sis.mybps.org or apply.avela.org/boston
+- **School Choice Tool:** bostonpublicschools.org (enter your address to generate your eligible school list)
+- **Transportation Support:** 617-635-9520 or bostonpublicschoolshelp.freshdesk.com
+- **Specialized Services (IEP/disability):** 617-635-8599
+- **Office of Multilingual and Multicultural Education:** bostonpublicschools.org/OMME
+- **Boston SpEdPAC (parent advocacy):** bostonspedpac.org
+- **Great Starts early childhood platform:** bostonpublicschools.org/greatstarts
+- **Exam school info sessions:** Offered annually in multiple languages; check bostonpublicschools.org/examschools for dates
+
+I now have a comprehensive set of confirmed, live URLs from research. Here is the organized reference list:
+
+---
+
+## BPS Parent Resource URL Reference
+
+Organized by topic, with a brief note on what each page contains. All URLs verified as of March 2026.
+
+---
+
+### Enrollment & Registration
+
+**Starting point for all new families**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/enrollment/welcome-services/registration` | Master registration page — steps, required documents, age cutoffs, language-translated document checklists |
+| `https://www.bostonpublicschools.org/Page/6489` (FAQ) | Official FAQ on waitlists, address changes, K2 guarantee, administrative assignments, sibling priority |
+| `https://www.bostonpublicschools.org/enrollment/welcome-services/welcome-centers-locations` | Four Welcome Center addresses, hours, phone numbers |
+| `https://www.bostonpublicschools.org/enrollment/welcome-services/grade-levels-overview/kindergarten` | K0/K1/K2 program details, age rules, full-day K2 information |
+| `https://www.bostonpublicschools.org/enrollment/welcome-services/grade-levels-overview/high-schools` | High school enrollment overview — citywide eligibility, special admission schools list |
+| `https://www.bostonpublicschools.org/enrollment/welcome-services/school-information-sessions` | Schedule of school information sessions (fall/winter) by school |
+| `https://www.bostonpublicschools.org/enrollment/welcome-services/faq` | Additional enrollment FAQ |
+| `https://www.bostonpublicschools.org/enrollment/welcome-services/change-of-address` | How to update your address and what it means for your school assignment |
+| `https://apply.avela.org/boston` | The online application portal (Avela) for school choice |
+| `https://sis.mybps.org` | BPS Student Information System — pre-registration, report cards, attendance |
+| `https://www.bostonpublicschools.org/students-families/universal-pre-k-boston/apply` | Boston Pre-K application info — eligibility, process |
+| `https://www.bostonpublicschools.org/enrollment/greatstarts-container/greatstarts` | Great Starts platform — explore all BPS and community early childhood options |
+
+---
+
+### School Search & Types
+
+**Understanding what schools exist and what makes them different**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/schools-container/schools-listings` | Official BPS school profiles directory — link to every school's profile page |
+| `https://www.bostonpublicschools.org/schools-container/school-types` | Explains all BPS school types: traditional, exam, pilot, Horace Mann charter, dual language, alternative |
+| `https://www.bostonpublicschools.org/academics/exam-schools` | Exam school overview — Boston Latin School, Boston Latin Academy, O'Bryant |
+| `https://www.bostonpublicschools.org/academics/exam-schools/how-to-apply` | Step-by-step exam school application process |
+| `https://www.bostonpublicschools.org/academics/exam-schools/admissions-faqs` | Detailed exam school admissions FAQ |
+| `https://www.bostonpublicschools.org/academics/exam-schools/admissions-policy/tier-map` | Interactive map of Boston's socioeconomic tiers used in exam school admissions |
+| `https://www.bostonpublicschools.org/academics/exam-schools/data-summaries` | Demographic and admission outcome data for each exam school |
+| `https://www.bostonpublicschools.org/academics/career-and-technical-education/career-and-technical-education` | Overview of Career and Technical Education (CTE) programs |
+| `https://www.bostonpublicschools.org/academics/career-and-technical-education/chapter-74-programs` | List of all Chapter 74 state-approved vocational programs |
+| `https://www.bostonpublicschools.org/academics/career-and-technical-education/chapter-74-admissions` | How to apply to Chapter 74 CTE programs (separate from standard enrollment) |
+| `https://www.bostonpublicschools.org/academics/career-and-technical-education/early-college-pathways` | Early College high school programs — earn college credits while in high school |
+| `https://www.bostonpublicschools.org/bps-departments/multilingual-and-multicultural-education/instructional-programs/sheltered-english-immersion-sei/sei-language-specific-program` | Which schools offer Chinese, Cape Verdean Creole, and Haitian Creole SEI programs |
+
+---
+
+### Transportation
+
+**One of the most practically important topics for BPS families**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/bps-departments/transportation/students-families/eligibility` | Eligibility rules by grade and walking distance — who qualifies for yellow bus vs. MBTA |
+| `https://www.bostonpublicschools.org/bps-departments/transportation/students-families/mbta-passes` | M7 MBTA pass details, eligibility, how to get/replace passes, summer validity |
+| `https://www.bostonpublicschools.org/bps-departments/transportation/students-families/transportation-faq` | Transportation FAQ — late buses, opt-outs, alternate stops, driver shortage history |
+| `https://www.bostonpublicschools.org/bps-departments/transportation/students-families/transportation-change-requests` | How to request alternate drop-off locations, 6th grade M7 opt-in, reinstatement of service |
+| `https://bostonpublicschoolshelp.freshdesk.com/support/home` | BPS Transportation Support Portal — submit tickets for all transportation issues |
+| `https://www.bostonpublicschools.org/bps-departments/transportation/students-families/students-in-transition-homeless` | Transportation rights for homeless/housing-unstable students (McKinney-Vento protections) |
+
+---
+
+### Special Education
+
+**Critical resources for families with children with disabilities**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/academics/specialized-services/about` | Overview of BPS Specialized Services (special education department) |
+| `https://www.bostonpublicschools.org/academics/specialized-services/programs-services/child-find` | Child Find — how to request an evaluation if you suspect a disability (ages 3–21) |
+| `https://www.bostonpublicschools.org/academics/specialized-services/programs-services/individualized-education-program-iep` | IEP overview and family rights |
+| `https://www.bostonpublicschools.org/academics/specialized-services/programs-services/extended-school-year-esy` | Extended School Year (summer) services for students whose IEPs require it |
+| `https://www.bostonpublicschools.org/academics/specialized-services/programs-services/transition-strive-services` | Transition and STRIVE services for students 14+ with disabilities preparing for adult life |
+| `https://www.bostonpublicschools.org/academics/specialized-services/resources-for-families` | Compiled family resources: FERPA, procedural safeguards, EdPlan Connect portal, family guide |
+| `https://www.bostonpublicschools.org/academics/specialized-services/resources-for-families/family-guide-for-students-with-disabilities` | BPS Family Guide for Students with Disabilities — plain-language rights overview |
+| `https://www.bostonpublicschools.org/academics/specialized-services/resources-for-families/parents-notice-of-procedural-safeguards` | Your legal rights as a parent in the IEP process |
+| `https://www.bostonspedpac.org/` | Boston Special Education Parent Advisory Council — independent parent body, meetings, multilingual resources |
+| `https://www.bostonspedpac.org/resources-1` | SpEdPAC compiled resources: DLC, PPAL, Massachusetts Advocates for Children, DESE complaint process |
+
+---
+
+### Multilingual Families & English Learners
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/bps-departments/multilingual-and-multicultural-education/about` | Overview of BPS's Office of Multilingual and Multicultural Education (OMME) |
+| `https://www.bostonpublicschools.org/bps-departments/multilingual-and-multicultural-education/parent-engagement` | EL parent engagement programs, District English Learner Advisory Committee (DELAC), family literacy programs |
+| `https://www.bostonpublicschools.org/students-families/family-community-advancement/bps-helpline` | BPS Helpline — support fielded in seven major BPS languages, plus English |
+| `https://www.bostonpublicschools.org/Page/6189` | Office of Language Access Services (OLAS) — interpretation requests, translation requests, TalkingPoints |
+
+---
+
+### Academic Data & School Quality Research
+
+**How to evaluate schools using official data**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/academics/school-quality-framework` | BPS School Quality Framework — how BPS rates its own schools |
+| `https://www.bostonpublicschools.org/about-bps/data-and-reports/school-report-cards` | Link to Massachusetts state school report cards for each BPS school |
+| `https://www.bostonpublicschools.org/about-bps/data-and-reports/data-and-reports/massachusetts-comprehensive-assessment-system-mcas` | BPS MCAS overview and district-level results |
+| `https://reportcards.doe.mass.edu/2023/00350000` | Massachusetts DESE official report card for BPS as a district — enrollment, demographics, MCAS, graduation rates, per-pupil spending |
+| `https://profiles.doe.mass.edu/accountability/report/district.aspx?linkid=30&orgcode=00350000&orgtypecode=5` | BPS accountability classification and progress data from DESE |
+| `https://www.doe.mass.edu/mcas/results.html` | Massachusetts MCAS results by year — look up any school by name |
+| `https://profiles.doe.mass.edu/general/general.aspx?topNavID=1&leftNavId=100&orgcode=00350000&orgtypecode=5` | DESE school profiles for BPS — click into individual schools for detailed data |
+| `https://www.bostonpublicschools.org/about-bps/data-and-reports/data-and-reports/graduation-rate` | BPS graduation rate data and trends |
+
+---
+
+### Family Engagement & Parent Advocacy
+
+**Getting involved and getting help**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/students-families/family-community-advancement/office-of-family-community-advancement` | Office of Family and Community Advancement (OFCA) — Parent University, Countdown to Kindergarten |
+| `https://www.bostonpublicschools.org/Page/6187` | Family Capacity Building — parent groups, reading clubs, multi-session courses for BPS families |
+| `https://www.bostonpublicschools.org/students-families/school-parent-and-site-councils/about` | School Parent Councils and School Site Councils — how to get involved at your school |
+| `https://www.citywideparentcouncil.org/` | Citywide Parent Council (CPC) — the official umbrella body of all 125 school parent councils; parent-built toolkit of resources |
+| `https://www.partnerbps.org/about-ofca/` | PartnerBPS — community partner and family engagement hub including Parent University and Boston Student Advisory Council (BSAC) |
+| `https://www.cplanma.org/` | CPLAN (Community Parent Leadership Advocacy Network) — statewide parent-led advocacy organization founded in Boston; parent guides, councils, IEP navigation |
+| `https://www.bosedequity.org/` | Boston Coalition for Education Equity — civil rights and community advocacy on exam schools and district equity issues |
+
+---
+
+### Health, Food & Student Life
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/bps-departments/health-services/school-health-services` | School health services overview — nurses, screenings, chronic condition management |
+| `https://www.bostonpublicschools.org/bps-departments/health-services/immunizations` | Required immunizations by grade level |
+| `https://www.bostonpublicschools.org/bps-departments/health-services/school-based-health-centers` | Which schools have school-based health centers with clinical care |
+| `https://www.bostonpublicschools.org/bps-departments/food-and-nutrition-services/about` | Universal free meals program overview |
+| `https://www.bostonpublicschools.org/bps-departments/food-and-nutrition-services/halal-and-kosher-meals` | Halal and kosher meal availability and how to request |
+| `https://www.bostonpublicschools.org/bps-departments/food-and-nutrition-services/food-service-accommodation-form` | Form for dietary/medical food accommodations |
+
+---
+
+### Capital Planning (School Closures, Mergers, Reconfigurations)
+
+**Essential for families considering schools with known structural changes**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.bostonpublicschools.org/about-bps/capital-planning/capital-planning-department` | Master capital planning page |
+| `https://www.bostonpublicschools.org/about-bps/capital-planning/closures` | All school closure announcements (Dever, Excel, CASH, ACC, Mary Lyon, Lee Academy, Community Academy) |
+| `https://www.bostonpublicschools.org/about-bps/capital-planning/mergers/frederick` | Clap + Winthrop → Lilla G. Frederick Elementary merger details |
+| `https://www.bostonpublicschools.org/about-bps/capital-planning/reconfigurations/henderson` | Henderson Inclusion School grade reconfiguration details |
+
+---
+
+### Third-Party School Research Tools
+
+**Independent sites parents commonly use to compare schools**
+
+| URL | What It Contains |
+|-----|-----------------|
+| `https://www.niche.com/k12/search/best-public-elementary-schools/m/boston-metro-area/` | Niche school rankings and parent reviews — filter by neighborhood and grade level |
+| `https://www.greatschools.org/massachusetts/boston/` | GreatSchools ratings including MCAS proficiency, student growth, equity data |
+| `https://www.schooldigger.com/go/MA/districtdetail.aspx?districtid=027900` | SchoolDigger BPS district page — ranking and MCAS data by school |
+
+---
+
+### Key Phone Numbers (Quick Reference)
+
+| Department | Phone |
+|-----------|-------|
+| BPS Welcome Centers / Enrollment | 617-635-9010 |
+| BPS Main Line | 617-635-9000 |
+| Transportation Hotline | 617-635-9520 |
+| Specialized Services (Special Education) | 617-635-8599 |
+| Family & Community Advancement (OFCA) | 617-635-9066 |
+| OMME / Multilingual Education | via main BPS line |
+| BPS Helpline (multilingual) | via bostonpublicschools.org/helpline |
